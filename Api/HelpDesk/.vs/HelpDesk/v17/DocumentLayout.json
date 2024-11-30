@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Project\\Api\\HelpDesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\migrations\\20241122094120_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\migrations\\20241122094120_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "HelpDesk\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:27:29.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241122094120_second.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Migrations\\20241122094120_second.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Migrations\\20241122094120_second.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Migrations\\20241122094120_second.cs",
+              "RelativeToolTip": "HelpDesk\\Migrations\\20241122094120_second.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:41:06.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\WeatherForecast.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\WeatherForecast.cs",
+              "RelativeToolTip": "HelpDesk\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:24:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HelpDesk\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:47:38.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HelpDesk\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:22:31.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

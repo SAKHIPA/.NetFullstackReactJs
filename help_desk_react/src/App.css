@@ -1,0 +1,13 @@
+.welcome-header {
+    font-size: 2.5em;
+    /* Adjust the size as needed */
+    color: #4CAF50;
+    /* Green color */
+}
+
+.welcome-text {
+    font-size: 1.2em;
+    /* Adjust the size as needed */
+    color: #FF5722;
+    /* Orange color */
+}
